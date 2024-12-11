@@ -22,25 +22,24 @@ img{
     margin: 15% 5%;
 }
 
-#cima{
-    a{
+#cima a{
+    
         margin-left: 12%;
         border: solid 1px;
         font-size: 2em;
         text-decoration: none;
         color: silver;
     }
-}
 
-#baixo{
+#baixo a{
     margin-left: 11%;
-    a{
+    
         margin-left: 14%;
         border: solid 1px;
         font-size: 2em;
         text-decoration: none;
         color: silver;
-    }
+    
 }
 
 hr{
