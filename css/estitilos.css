@@ -32,14 +32,15 @@ img{
     }
 
 #baixo a{
-    margin-left: 11%;
-    
         margin-left: 14%;
         border: solid 1px;
         font-size: 2em;
         text-decoration: none;
         color: silver;
-    
+}
+
+#baixo{
+    margin-left: 11%;
 }
 
 hr{
