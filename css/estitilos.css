@@ -70,12 +70,8 @@ h1,h2,h3,h4,ul{
     margin: 2% 0;
 }
 
-h4.cop{
-    margin: 0 25%;
-}
-
 h1,h4{
-    margin: 0 10% ;
+    margin: auto ;
 }
 
 
