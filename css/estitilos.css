@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+}
+body{
+    margin: 0 25%;
+    background-color: #292E45;
+}
+
+p{
+    text-align: justify;
+    font-size: 1,5em;
+    color: white;
+}
+
+img{
+    width: 65%;
+    margin: 5% 20%;
+    border: solid silver;
+}
+
+#menu{
+    margin: 15% 5%;
+}
+
+#cima{
+    a{
+        margin-left: 12%;
+        border: solid 1px;
+        font-size: 2em;
+        text-decoration: none;
+        color: silver;
+    }
+}
+
+#baixo{
+    margin-left: 11%;
+    a{
+        margin-left: 14%;
+        border: solid 1px;
+        font-size: 2em;
+        text-decoration: none;
+        color: silver;
+    }
+}
+
+hr{
+    margin: 2% 0;
+    color: silver;
+}
+
+header,footer{
+    background-color: #161F30;
+    padding: 10%;
+}
+
+h1,h2,h3,h4,ul{
+    color: silver;
+    margin: 2% 0;
+}
+
+h4.cop{
+    margin: 0 25%;
+}
+
+
+a{
+    color: white;
+    font-size: 1,5em;
+    font-style: italic;
+}
+
+a.botao{
+    font-size: 2,5em;
+    padding: 1%;
+    background-color: #161F30;
+    border-radius: 10%;
+}
+
