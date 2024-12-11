@@ -74,6 +74,12 @@ h4.cop{
     margin: 0 25%;
 }
 
+h1,h4{
+    margin: 10% 0;
+}
+
+
+
 
 a{
     color: white;
