@@ -31,6 +31,12 @@ img{
         color: silver;
     }
 
+#cima a:hover{
+    color: black;
+}
+
+
+
 #baixo a{
         margin-left: 14%;
         border: solid 1px;
@@ -42,6 +48,12 @@ img{
 #baixo{
     margin-left: 11%;
 }
+
+#baixo a:hover{
+    color: black;
+}
+
+
 
 hr{
     margin: 2% 0;
